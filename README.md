@@ -1,88 +1,168 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sadik%20Can%20Ceska&fontSize=48&fontAlignY=36&animation=fadeIn&color=0:101820,100:d4a853&fontColor=f5f5f5" alt="header" width="100%" />
-
-  <p>
-    <strong>Senior Fullstack Developer</strong><br />
-    Building fast, scalable, and visually sharp products with React, Next.js, and Node.js.
-  </p>
-
-  <p>
-    <a href="https://github.com/ceskasc">
-      <img src="https://img.shields.io/badge/Portfolio-Sadik_Can_Ceska-d4a853?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=d4a853" alt="Portfolio" />
-    </a>
-    <a href="https://discord.gg/zq8mQTeBqA">
-      <img src="https://img.shields.io/badge/Discord-Join_Community-0a0a0a?style=for-the-badge&logo=discord&logoColor=d4a853&labelColor=0a0a0a&color=d4a853" alt="Discord" />
-    </a>
-    <a href="mailto:contact@sadikcanceska.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-d4a853?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=d4a853" alt="Email" />
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Sadik%20Can%20Ceska&fontSize=58&fontAlignY=38&color=0:0f1419,35:111827,100:d4a853&stroke=d4a853&strokeWidth=1&fontColor=f8fafc" alt="Header" width="100%" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=30&duration=3200&pause=900&color=D4A853&center=true&vCenter=true&width=980&lines=Senior+Fullstack+Developer;Crafting+Product-Grade+Web+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+System+Design;From+Idea+to+Scalable+Production" alt="Typing Intro" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&duration=4200&pause=1000&color=F8FAFC&center=true&vCenter=true&width=700&lines=Signature+by+Sadik+Can+Ceska" alt="Signature" />
+</div>
+
+<p align="center">
+  <em>"I don't just ship features. I craft products that feel intentional, fast, and memorable."</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ceskasc">
+    <img src="https://img.shields.io/badge/Portfolio-Sadik_Can_Ceska-d4a853?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=d4a853" alt="Portfolio" />
+  </a>
+  <a href="https://discord.gg/zq8mQTeBqA">
+    <img src="https://img.shields.io/badge/Discord-Join_Community-0a0a0a?style=for-the-badge&logo=discord&logoColor=d4a853&labelColor=0a0a0a&color=d4a853" alt="Discord" />
+  </a>
+  <a href="mailto:contact@sadikcanceska.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-d4a853?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=d4a853" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ceskasc&style=for-the-badge&color=d4a853&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ceskasc?style=for-the-badge&color=d4a853&labelColor=0f1419" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ceskasc?style=for-the-badge&color=d4a853&labelColor=0f1419" alt="Stars" />
+</p>
 
 ---
 
-## About Me
+## Signature Statement
+
+I am a product-focused software engineer from Ankara, building fullstack systems with pixel-level UI care and architecture-level backend rigor.  
+My default mode is simple: understand the business pressure, design the cleanest technical path, and ship with production confidence.
+
+What defines my style:
+- Fast interfaces that still feel elegant
+- Backend services that stay reliable under scale
+- Clean, maintainable codebases that teams can grow on
+- Product decisions driven by user impact, not noise
+
+---
+
+## About The Builder
 
 <table>
   <tr>
     <td width="62%" valign="top">
+      <h3>Who I Am</h3>
       <p>
-        I am based in Ankara and focused on shipping high-quality web products with clean architecture and strong UI detail.
+        I build modern web applications end-to-end with React, Next.js, Node.js, and PostgreSQL.
+        My main focus is turning complex product ideas into stable, scalable systems with clear UX and strong engineering discipline.
       </p>
-      <p>
-        I enjoy solving real product problems, turning rough ideas into production-ready software, and mentoring teams to move faster with better code quality.
-      </p>
+      <h3>What I Optimize For</h3>
       <ul>
-        <li>Building high-performance SaaS platforms</li>
-        <li>Contributing to open-source UI components</li>
-        <li>Improving system design for microservice environments</li>
+        <li><strong>Speed:</strong> low-latency UX and fast delivery cycles</li>
+        <li><strong>Quality:</strong> readable architecture, testable modules, robust release flow</li>
+        <li><strong>Clarity:</strong> decisions documented, ownership clear, execution measurable</li>
+      </ul>
+      <h3>Current Mission</h3>
+      <ul>
+        <li>Building high-performance SaaS applications</li>
+        <li>Designing reusable UI systems and component libraries</li>
+        <li>Improving distributed backend design for long-term scale</li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="./lemon.jpeg" alt="Limon" width="280" />
+      <img src="./lemon-partner.jpeg" alt="Limon - My first and only business partner" width="310" />
       <br />
-      <sub>Limon, Chief Happiness Officer</sub>
+      <sub><strong>Limon</strong> - My first and only business partner.</sub>
     </td>
   </tr>
 </table>
 
-## Current Focus
+---
 
-- Advanced animation systems with GSAP and Three.js
-- Reliable backend architecture with Node.js and PostgreSQL
-- Performance optimization and DX improvements in Next.js projects
+## Current Focus Areas
 
-## Tech Stack
+1. Advanced animation pipelines with GSAP and Three.js
+2. Scalable service architecture in Node.js ecosystems
+3. Clean microservice communication and observability
+4. Performance budgets and Core Web Vitals excellence
+5. Strong developer experience in large Next.js codebases
+
+---
+
+## Engineering Playbook
+
+<details>
+  <summary><strong>How I approach product delivery</strong></summary>
+  <br />
+  <ul>
+    <li><strong>Discovery:</strong> clarify user pain, define measurable outcomes, remove ambiguity early</li>
+    <li><strong>Design:</strong> architecture first, API contracts second, implementation third</li>
+    <li><strong>Execution:</strong> iterate in vertical slices, keep feedback loops tight, ship continuously</li>
+    <li><strong>Hardening:</strong> profiling, testing, observability, and production-readiness checks</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Quality standards I hold in production code</strong></summary>
+  <br />
+  <ul>
+    <li>Clear boundaries between domain logic and UI concerns</li>
+    <li>Zero "magic" behaviors without explicit documentation</li>
+    <li>Performance-aware rendering and data-fetching strategies</li>
+    <li>Predictable deployment and rollback workflows</li>
+  </ul>
+</details>
+
+---
+
+## Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,redux,graphql,mongodb,postgres,docker,aws,git,figma,vscode&perline=9" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,redux,graphql,mongodb,postgres,docker,aws,git,figma,vscode,linux,bash&perline=10" alt="Tech stack" />
 </p>
 
-## GitHub Stats
+---
+
+## GitHub Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceskasc&show_icons=true&theme=dark&bg_color=0d1117&title_color=d4a853&text_color=f5f5f5&icon_color=d4a853&border_color=30363d&rank_icon=github" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceskasc&layout=compact&theme=dark&bg_color=0d1117&title_color=d4a853&text_color=f5f5f5&border_color=30363d" alt="Top languages" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ceskasc&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceskasc&theme=dark&background=0d1117&ring=d4a853&fire=d4a853&currStreakLabel=d4a853&sideNums=f5f5f5&dates=f5f5f5&sideLabels=f5f5f5&hide_border=false&border=30363d" alt="Streak stats" />
-</div>
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceskasc&bg_color=0d1117&color=d4a853&line=d4a853&point=f5f5f5&area=true&hide_border=true" alt="Contribution graph" />
-</div>
-
-## Connect
-
-<div align="center">
-  <a href="https://discord.gg/zq8mQTeBqA">
-    <img src="https://invidget.switchblade.xyz/zq8mQTeBqA" alt="Discord invite" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ceskasc&show_icons=true&theme=dark&bg_color=0f1419&title_color=d4a853&text_color=f8fafc&icon_color=d4a853&border_color=2f3a47&rank_icon=github" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceskasc&layout=compact&theme=dark&bg_color=0f1419&title_color=d4a853&text_color=f8fafc&border_color=2f3a47" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:101820,100:d4a853" width="100%" alt="footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceskasc&theme=dark&background=0f1419&ring=d4a853&fire=d4a853&currStreakLabel=d4a853&sideNums=f8fafc&dates=f8fafc&sideLabels=f8fafc&border=2f3a47" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceskasc&bg_color=0f1419&color=d4a853&line=d4a853&point=f8fafc&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## Let's Build Something Exceptional
+
+<div align="center">
+  <p>
+    I am open to selective collaborations around product engineering, SaaS platforms, and performance-driven web systems.
+  </p>
+  <p>
+    <a href="mailto:contact@sadikcanceska.com">
+      <img src="https://img.shields.io/badge/Business_Inquiry-contact@sadikcanceska.com-d4a853?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=d4a853" alt="Business Inquiry" />
+    </a>
+  </p>
+  <p>
+    <a href="https://discord.gg/zq8mQTeBqA">
+      <img src="https://invidget.switchblade.xyz/zq8mQTeBqA" alt="Discord Invite" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f1419,100:d4a853" alt="Footer" width="100%" />
 </div>
