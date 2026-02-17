@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Sad%C4%B1k%20Can%20%C3%87e%C5%9Fka&fontSize=58&fontAlignY=38&color=0:0f1419,35:111827,100:d4a853&stroke=d4a853&strokeWidth=1&fontColor=f8fafc" alt="Header" width="100%" />
 </div>
 
-<h1 align="center">Sad&#305;k Can &#199;e&#351;ka</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=30&duration=3200&pause=900&color=D4A853&center=true&vCenter=true&width=980&lines=Senior+Fullstack+Developer;Crafting+Product-Grade+Web+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+System+Design;From+Idea+to+Scalable+Production" alt="Typing Intro" />
 </div>
