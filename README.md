@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Sadik%20Can%20Ceska&fontSize=58&fontAlignY=38&color=0:0f1419,35:111827,100:d4a853&stroke=d4a853&strokeWidth=1&fontColor=f8fafc" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Sad%C4%B1k%20Can%20%C3%87e%C5%9Fka&fontSize=58&fontAlignY=38&color=0:0f1419,35:111827,100:d4a853&stroke=d4a853&strokeWidth=1&fontColor=f8fafc" alt="Header" width="100%" />
 </div>
+
+<h1 align="center">Sad&#305;k Can &#199;e&#351;ka</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=30&duration=3200&pause=900&color=D4A853&center=true&vCenter=true&width=980&lines=Senior+Fullstack+Developer;Crafting+Product-Grade+Web+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+System+Design;From+Idea+to+Scalable+Production" alt="Typing Intro" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&duration=4200&pause=1000&color=F8FAFC&center=true&vCenter=true&width=700&lines=Signature+by+Sadik+Can+Ceska" alt="Signature" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&duration=4200&pause=1000&color=F8FAFC&center=true&vCenter=true&width=760&lines=Signature+by+Sad%C4%B1k+Can+%C3%87e%C5%9Fka" alt="Signature" />
 </div>
 
 <p align="center">
@@ -16,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/ceskasc">
-    <img src="https://img.shields.io/badge/Portfolio-Sadik_Can_Ceska-d4a853?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=d4a853" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Sad%C4%B1k_Can_%C3%87e%C5%9Fka-d4a853?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=d4a853" alt="Portfolio" />
   </a>
   <a href="https://discord.gg/zq8mQTeBqA">
     <img src="https://img.shields.io/badge/Discord-Join_Community-0a0a0a?style=for-the-badge&logo=discord&logoColor=d4a853&labelColor=0a0a0a&color=d4a853" alt="Discord" />
@@ -125,15 +127,6 @@ What defines my style:
 ---
 
 ## GitHub Highlights
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceskasc&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceskasc&show_icons=true&theme=dark&bg_color=0f1419&title_color=d4a853&text_color=f8fafc&icon_color=d4a853&border_color=2f3a47&rank_icon=github" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceskasc&layout=compact&theme=dark&bg_color=0f1419&title_color=d4a853&text_color=f8fafc&border_color=2f3a47" alt="Top Languages" height="180" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceskasc&theme=dark&background=0f1419&ring=d4a853&fire=d4a853&currStreakLabel=d4a853&sideNums=f8fafc&dates=f8fafc&sideLabels=f8fafc&border=2f3a47" alt="Streak Stats" />
