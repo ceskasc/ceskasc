@@ -42,11 +42,11 @@
   <text x="100" y="176" fill="#8891A7" font-size="18" font-family="Consolas, monospace">// ceskasc profile.readme</text>
   <text x="100" y="218" fill="#A78BFA" font-size="30" font-family="Consolas, monospace">const</text>
   <text x="205" y="218" fill="url(#gold)" font-size="30" font-family="Consolas, monospace">builder</text>
-  <text x="325" y="218" fill="#C4CBD9" font-size="30" font-family="Consolas, monospace">= "Sadikcan";</text>
+  <text x="325" y="218" fill="#C4CBD9" font-size="30" font-family="Consolas, monospace">= "Sadıkcan";</text>
   <text x="100" y="258" fill="#93C5FD" font-size="28" font-family="Consolas, monospace">ship(fast, clean, scalable);</text>
   <text x="100" y="296" fill="#6B7280" font-size="16" font-family="Consolas, monospace">UI precision + backend rigor</text>
 
-  <text x="620" y="170" fill="#FFFFFF" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Sadikcan Ceska</text>
+  <text x="620" y="170" fill="#FFFFFF" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Sadıkcan Çeşka</text>
   <text x="620" y="216" fill="url(#gold)" font-size="32" font-family="Segoe UI, Arial, sans-serif" font-style="italic">Fullstack Product Engineer</text>
   <text x="620" y="260" fill="#CBD5E1" font-size="20" font-family="Segoe UI, Arial, sans-serif">Minimal systems. Premium interfaces. Reliable delivery.</text>
 

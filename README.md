@@ -1,7 +1,7 @@
 ﻿<div align="center">
-  <img src="./assets/profile-hero.svg" alt="Sadikcan Ceska Hero" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="Sadıkcan Çeşka Hero" width="100%" />
 
-  <h1>Sadikcan Ceska</h1>
+  <h1>Sadıkcan Çeşka</h1>
   <p><strong>Fullstack Product Engineer</strong> building fast, elegant, and scalable digital products.</p>
 
   <p>
@@ -50,8 +50,8 @@
 
 <div align="center">
   <h3>GitHub Metrics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ceskasc&show_icons=true&hide_border=true&bg_color=030305&title_color=D5B378&text_color=E2E8F0&icon_color=D5B378" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceskasc&layout=compact&hide_border=true&bg_color=030305&title_color=D5B378&text_color=E2E8F0" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ceskasc&show_icons=true&hide_border=true&bg_color=030305&title_color=D5B378&text_color=E2E8F0&icon_color=D5B378&cache_seconds=7200" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ceskasc&layout=compact&hide_border=true&bg_color=030305&title_color=D5B378&text_color=E2E8F0&cache_seconds=7200" alt="Top languages" height="170" />
 </div>
 
 <div align="center">
