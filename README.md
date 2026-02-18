@@ -43,8 +43,13 @@
 
 <div align="center">
   <h3>Core Stack</h3>
+  <p><strong>Product Engineering</strong></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,docker,aws,git&perline=10" alt="Core stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,tailwind,redux,graphql,prisma,postgres,mongodb,redis,docker,aws,git,githubactions&perline=9" alt="Product engineering stack" />
+  </p>
+  <p><strong>Tooling</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=linux,bash,vscode,figma,vercel,postman&perline=6" alt="Tooling stack" />
   </p>
 </div>
 
