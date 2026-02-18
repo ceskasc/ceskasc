@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="./assets/profile-hero.svg" alt="Sadıkcan Çeşka Hero" width="100%" />
+  <img src="./assets/profile-hero.svg?v=20260218" alt="Sadıkcan Çeşka Hero" width="100%" />
 
   <h1>Sadıkcan Çeşka</h1>
   <p><strong>Fullstack Product Engineer</strong> building fast, elegant, and scalable digital products.</p>
