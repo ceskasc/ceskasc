@@ -1,55 +1,74 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#060A12"/>
-      <stop offset="1" stop-color="#0E1526"/>
+    <clipPath id="hero-clip">
+      <rect width="1280" height="420" rx="20"/>
+    </clipPath>
+
+    <linearGradient id="overlay-dark" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050912" stop-opacity="0.9"/>
+      <stop offset="0.52" stop-color="#0A111F" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#1A1112" stop-opacity="0.84"/>
     </linearGradient>
+
+    <radialGradient id="ember-light" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1110 120) rotate(160) scale(530 320)">
+      <stop offset="0" stop-color="#FF6C2A" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FF6C2A" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="panel" x1="64" y1="80" x2="600" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#091120" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0B1322" stop-opacity="0.78"/>
+    </linearGradient>
+
     <linearGradient id="ember" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFB17A"/>
       <stop offset="0.5" stop-color="#FF7A2A"/>
       <stop offset="1" stop-color="#E6541E"/>
     </linearGradient>
-    <filter id="glow-strong" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="38"/>
-    </filter>
-    <filter id="glow-soft" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="20"/>
+
+    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="34"/>
     </filter>
   </defs>
 
-  <rect width="1280" height="420" rx="20" fill="url(#bg)"/>
+  <g clip-path="url(#hero-clip)">
+    <rect width="1280" height="420" fill="#060B14"/>
+    <image href="./chatgpt-bg.png" x="0" y="-248" width="1280" height="910" preserveAspectRatio="xMidYMid slice" opacity="0.62"/>
+    <rect width="1280" height="420" fill="url(#overlay-dark)"/>
+    <rect width="1280" height="420" fill="url(#ember-light)"/>
+  </g>
 
-  <circle cx="152" cy="356" r="150" fill="#FF8A33" opacity="0.17" filter="url(#glow-strong)"/>
-  <circle cx="1148" cy="72" r="168" fill="#FF5A24" opacity="0.2" filter="url(#glow-strong)"/>
-  <circle cx="1030" cy="318" r="104" fill="#FF8A33" opacity="0.12" filter="url(#glow-soft)"/>
+  <circle cx="1090" cy="94" r="146" fill="#FF6D2A" opacity="0.2" filter="url(#glow)"/>
+  <circle cx="152" cy="352" r="168" fill="#FF6D2A" opacity="0.14" filter="url(#glow)"/>
 
-  <path d="M0 354C170 326 312 370 502 332C668 298 816 238 1280 254" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2"/>
+  <path d="M0 360C150 325 298 374 508 332C682 297 866 229 1280 250" stroke="#FFFFFF" stroke-opacity="0.09" stroke-width="2"/>
 
-  <rect x="70" y="84" width="510" height="252" rx="16" fill="#0A101B" fill-opacity="0.84" stroke="#FFFFFF" stroke-opacity="0.12"/>
-  <rect x="94" y="116" width="462" height="1" fill="#FFFFFF" fill-opacity="0.15"/>
-  <circle cx="108" cy="100" r="5" fill="#FF5F56"/>
-  <circle cx="128" cy="100" r="5" fill="#FFBD2E"/>
-  <circle cx="148" cy="100" r="5" fill="#27C93F"/>
+  <rect x="64" y="80" width="520" height="256" rx="16" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <rect x="90" y="112" width="470" height="1" fill="#FFFFFF" fill-opacity="0.15"/>
 
-  <text x="100" y="164" fill="#8A94AC" font-size="18" font-family="Consolas, monospace">// ceskasc/profile.ts</text>
-  <text x="100" y="208" fill="#FF9C67" font-size="30" font-family="Consolas, monospace">const</text>
-  <text x="205" y="208" fill="url(#ember)" font-size="30" font-family="Consolas, monospace">craft</text>
-  <text x="310" y="208" fill="#D4DCEB" font-size="30" font-family="Consolas, monospace">= "sharp_products";</text>
-  <text x="100" y="248" fill="#F2F6FF" font-size="26" font-family="Consolas, monospace">ship("minimal", "premium", "reliable");</text>
-  <text x="100" y="292" fill="#7C879D" font-size="16" font-family="Consolas, monospace">frontend finesse + backend discipline</text>
+  <circle cx="106" cy="97" r="5" fill="#FF5F56"/>
+  <circle cx="126" cy="97" r="5" fill="#FFBD2E"/>
+  <circle cx="146" cy="97" r="5" fill="#27C93F"/>
 
-  <text x="620" y="170" fill="#F6F8FC" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="700">SADIKCAN CESKA</text>
-  <text x="620" y="214" fill="url(#ember)" font-size="32" font-family="Segoe UI, Arial, sans-serif" font-style="italic">Fullstack Product Engineer</text>
-  <text x="620" y="256" fill="#CCD5E8" font-size="20" font-family="Segoe UI, Arial, sans-serif">Minimal architecture. Premium interface quality.</text>
+  <text x="98" y="161" fill="#97A2BC" font-size="18" font-family="Consolas, monospace">// ceskasc/profile.ts</text>
+  <text x="98" y="205" fill="#FF9D68" font-size="34" font-family="Consolas, monospace">const</text>
+  <text x="215" y="205" fill="url(#ember)" font-size="34" font-family="Consolas, monospace">craft</text>
+  <text x="334" y="205" fill="#E4EAF6" font-size="34" font-family="Consolas, monospace">= "sharp_products";</text>
+  <text x="98" y="250" fill="#F5F8FF" font-size="28" font-family="Consolas, monospace">ship("minimal", "premium", "reliable");</text>
+  <text x="98" y="297" fill="#8C97AF" font-size="16" font-family="Consolas, monospace">frontend finesse + backend discipline</text>
+
+  <text x="620" y="170" fill="#F8FAFF" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="700">SADIKCAN CESKA</text>
+  <text x="620" y="216" fill="url(#ember)" font-size="40" font-family="Segoe UI, Arial, sans-serif" font-style="italic">Fullstack Product Engineer</text>
+  <text x="620" y="262" fill="#D7DEED" font-size="31" font-family="Segoe UI, Arial, sans-serif">Minimal architecture. Premium interface quality.</text>
 
   <g font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">
-    <rect x="620" y="292" width="170" height="42" rx="21" fill="#FF7A2A" fill-opacity="0.2" stroke="#FF7A2A" stroke-opacity="0.55"/>
+    <rect x="620" y="292" width="170" height="42" rx="21" fill="#FF7A2A" fill-opacity="0.28" stroke="#FF7A2A" stroke-opacity="0.65"/>
     <text x="650" y="319" fill="#F7FAFF">React + Next.js</text>
 
-    <rect x="806" y="292" width="172" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.2"/>
+    <rect x="806" y="292" width="172" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.24"/>
     <text x="836" y="319" fill="#F7FAFF">Node.js + APIs</text>
 
-    <rect x="994" y="292" width="206" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.2"/>
+    <rect x="994" y="292" width="206" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.24"/>
     <text x="1022" y="319" fill="#F7FAFF">Product-grade delivery</text>
   </g>
 </svg>

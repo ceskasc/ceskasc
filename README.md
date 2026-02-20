@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg?v=20260220" alt="Sadikcan Ceska hero banner" width="100%" />
+  <img src="./assets/profile-hero.svg?v=20260220b" alt="Sadikcan Ceska hero banner" width="100%" />
 
   <br />
   <br />
@@ -13,7 +13,6 @@
     <a href="mailto:contact@sadikcanceska.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40sadikcanceska.com-FF6A2A?style=for-the-badge&labelColor=0B0F17" /></a>
   </p>
 
-  <img src="./assets/chatgpt-strip.jpg" alt="Signature texture" width="100%" />
 </div>
 
 <table>
