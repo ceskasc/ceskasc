@@ -1,18 +1,14 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg?v=20260220c" alt="Sadikcan Ceska hero banner" width="100%" />
-
-  <br />
-  <br />
+  <img src="./assets/profile-hero-red.png?v=20260220d" alt="Sadikcan Ceska hero header" width="100%" />
 
   <h1>Sadikcan Ceska</h1>
-  <p><strong>Fullstack Product Engineer</strong> focused on high-impact products, refined interfaces, and reliable systems.</p>
+  <p><strong>Fullstack Product Engineer</strong> building product-grade web systems with clean architecture and sharp interface quality.</p>
 
   <p>
-    <a href="https://ceskasc.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ceskasc.github.io-FF6A2A?style=for-the-badge&labelColor=0B0F17" /></a>
-    <a href="https://github.com/ceskasc"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@ceskasc-111827?style=for-the-badge&logo=github" /></a>
-    <a href="mailto:contact@sadikcanceska.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40sadikcanceska.com-FF6A2A?style=for-the-badge&labelColor=0B0F17" /></a>
+    <a href="https://ceskasc.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ceskasc.github.io-C31935?style=for-the-badge&labelColor=090C14" /></a>
+    <a href="https://github.com/ceskasc"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@ceskasc-1A1F2D?style=for-the-badge&logo=github" /></a>
+    <a href="mailto:contact@sadikcanceska.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40sadikcanceska.com-AE1E33?style=for-the-badge&labelColor=090C14" /></a>
   </p>
-
 </div>
 
 <table>
@@ -20,17 +16,17 @@
     <td width="50%" valign="top">
       <h3>What I Build</h3>
       <ul>
-        <li>Fast, polished web products with product-first UX</li>
-        <li>Scalable backend services and practical API design</li>
-        <li>Delivery flows that stay clean from concept to release</li>
+        <li>High-performance React and Next.js product experiences</li>
+        <li>Robust Node.js APIs with scalable data workflows</li>
+        <li>Delivery pipelines that stay reliable from idea to release</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Current Focus</h3>
       <ul>
-        <li>React / Next.js experiences tuned for speed</li>
-        <li>Node.js architectures with PostgreSQL and Redis</li>
-        <li>Premium UI systems with measurable engineering quality</li>
+        <li>Premium UI systems with measurable UX quality</li>
+        <li>PostgreSQL, Redis, and pragmatic cloud operations</li>
+        <li>Shipping maintainable products with strong engineering standards</li>
       </ul>
     </td>
   </tr>
@@ -48,10 +44,10 @@
 
 <div align="center">
   <h3>GitHub Metrics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ceskasc&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=FF6A2A&text_color=DCE3F0&icon_color=FF6A2A&cache_seconds=7200" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceskasc&layout=compact&hide_border=true&bg_color=0B0F17&title_color=FF6A2A&text_color=DCE3F0&cache_seconds=7200" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceskasc&show_icons=true&hide_border=true&bg_color=090C14&title_color=C31935&text_color=E6EAF2&icon_color=C31935&cache_seconds=7200" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceskasc&layout=compact&hide_border=true&bg_color=090C14&title_color=C31935&text_color=E6EAF2&cache_seconds=7200" alt="Top languages" height="170" />
 </div>
 
 <div align="center">
-  <sub>Built with precision. Shipped with intent.</sub>
+  <sub>Minimal architecture. Premium execution.</sub>
 </div>
