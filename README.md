@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero-red.png?v=20260220e" alt="Sadikcan Ceska hero header" width="100%" />
+  <img src="./assets/profile-hero-red.png?v=20260220f" alt="Sadikcan Ceska hero header" width="100%" />
 
   <h1>Sadikcan Ceska</h1>
   <p><strong>Fullstack Product Engineer</strong> building product-grade web systems with clean architecture and sharp interface quality.</p>
