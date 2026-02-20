@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg?v=20260220b" alt="Sadikcan Ceska hero banner" width="100%" />
+  <img src="./assets/profile-hero.svg?v=20260220c" alt="Sadikcan Ceska hero banner" width="100%" />
 
   <br />
   <br />
