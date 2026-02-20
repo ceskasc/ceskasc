@@ -1,53 +1,47 @@
-﻿<div align="center">
-  <img src="./assets/profile-hero.svg?v=20260218" alt="Sadıkcan Çeşka Hero" width="100%" />
+<div align="center">
+  <img src="./assets/profile-hero.svg?v=20260220" alt="Sadikcan Ceska hero banner" width="100%" />
 
-  <h1>Sadıkcan Çeşka</h1>
-  <p><strong>Fullstack Product Engineer</strong> building fast, elegant, and scalable digital products.</p>
+  <br />
+  <br />
+
+  <h1>Sadikcan Ceska</h1>
+  <p><strong>Fullstack Product Engineer</strong> focused on high-impact products, refined interfaces, and reliable systems.</p>
 
   <p>
-    <a href="https://ceskasc.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ceskasc.github.io-D5B378?style=for-the-badge&labelColor=030305" /></a>
-    <a href="https://github.com/ceskasc"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@ceskasc-111111?style=for-the-badge&logo=github" /></a>
-    <a href="mailto:contact@sadikcanceska.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40sadikcanceska.com-D5B378?style=for-the-badge&labelColor=030305" /></a>
+    <a href="https://ceskasc.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ceskasc.github.io-FF6A2A?style=for-the-badge&labelColor=0B0F17" /></a>
+    <a href="https://github.com/ceskasc"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@ceskasc-111827?style=for-the-badge&logo=github" /></a>
+    <a href="mailto:contact@sadikcanceska.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40sadikcanceska.com-FF6A2A?style=for-the-badge&labelColor=0B0F17" /></a>
   </p>
-</div>
 
-<br />
+  <img src="./assets/chatgpt-strip.jpg" alt="Signature texture" width="100%" />
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Profile</h3>
-      <p>
-        I design and ship product-grade web systems with a strong focus on
-        performance, maintainability, and clear UX.
-      </p>
+      <h3>What I Build</h3>
       <ul>
-        <li>Production-ready frontend architecture</li>
-        <li>Reliable backend services and APIs</li>
-        <li>Clean delivery flow from idea to release</li>
+        <li>Fast, polished web products with product-first UX</li>
+        <li>Scalable backend services and practical API design</li>
+        <li>Delivery flows that stay clean from concept to release</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Current Focus</h3>
       <ul>
-        <li>High-performance React / Next.js applications</li>
-        <li>Scalable Node.js + PostgreSQL systems</li>
-        <li>Design systems and premium UI execution</li>
+        <li>React / Next.js experiences tuned for speed</li>
+        <li>Node.js architectures with PostgreSQL and Redis</li>
+        <li>Premium UI systems with measurable engineering quality</li>
       </ul>
-      <p>
-        Open to selective collaborations on SaaS and product engineering.
-      </p>
     </td>
   </tr>
 </table>
 
 <div align="center">
   <h3>Core Stack</h3>
-  <p><strong>Product Engineering</strong></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,tailwind,redux,graphql,prisma,postgres,mongodb,redis,docker,aws,git,githubactions&perline=9" alt="Product engineering stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,tailwind,redux,graphql,prisma,postgres,mongodb,redis,docker,aws,git,githubactions&perline=9" alt="Core stack" />
   </p>
-  <p><strong>Tooling</strong></p>
   <p>
     <img src="https://skillicons.dev/icons?i=linux,bash,vscode,figma,vercel,postman&perline=6" alt="Tooling stack" />
   </p>
@@ -55,17 +49,10 @@
 
 <div align="center">
   <h3>GitHub Metrics</h3>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ceskasc&show_icons=true&hide_border=true&bg_color=030305&title_color=D5B378&text_color=E2E8F0&icon_color=D5B378&cache_seconds=7200" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ceskasc&layout=compact&hide_border=true&bg_color=030305&title_color=D5B378&text_color=E2E8F0&cache_seconds=7200" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceskasc&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=FF6A2A&text_color=DCE3F0&icon_color=FF6A2A&cache_seconds=7200" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceskasc&layout=compact&hide_border=true&bg_color=0B0F17&title_color=FF6A2A&text_color=DCE3F0&cache_seconds=7200" alt="Top languages" height="170" />
 </div>
 
 <div align="center">
-  <h3>Connect</h3>
-  <p>
-    <a href="https://ceskasc.github.io/">Portfolio</a> |
-    <a href="https://github.com/ceskasc?tab=repositories">Repositories</a> |
-    <a href="mailto:contact@sadikcanceska.com">Email</a>
-  </p>
-
-  <sub>Minimal systems. Premium interfaces.</sub>
+  <sub>Built with precision. Shipped with intent.</sub>
 </div>
