@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero-blue.png?v=20260224b" alt="Sadik Can Ceska hero header" width="100%" />
+  <img src="./assets/profile-hero-blue.png?v=20260224c" alt="Sadik Can Ceska hero header" width="100%" />
 
   <h1>Sad&#305;k Can &#199;e&#351;ka</h1>
   <p><strong>Fullstack Product Engineer</strong> building product-grade web systems with clean architecture and sharp interface quality.</p>
@@ -61,9 +61,9 @@
 <div align="center">
   <h3>Contribution Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ceskasc/ceskasc/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ceskasc/ceskasc/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ceskasc/ceskasc/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ceskasc/ceskasc/output/github-snake-dark.svg?v=20260224c" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ceskasc/ceskasc/output/github-snake.svg?v=20260224c" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ceskasc/ceskasc/output/github-snake.svg?v=20260224c" />
   </picture>
   <br />
   <sub>Auto-generated daily via GitHub Actions.</sub>
