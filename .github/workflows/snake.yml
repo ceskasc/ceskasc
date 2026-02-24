@@ -21,6 +21,8 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=%232563EB&color_dots=%23EAF2FF,%23CFE1FF,%239EC5FF,%235FA0FF,%232563EB
             dist/github-snake-dark.svg?color_snake=%233B82F6&color_dots=%23070C1A,%230E1833,%23143066,%231D4ED8,%2360A5FA
+            dist/github-snake-blue.svg?color_snake=%232563EB&color_dots=%23EAF2FF,%23CFE1FF,%239EC5FF,%235FA0FF,%232563EB
+            dist/github-snake-dark-blue.svg?color_snake=%233B82F6&color_dots=%23070C1A,%230E1833,%23143066,%231D4ED8,%2360A5FA
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
