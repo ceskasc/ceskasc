@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./assets/profile-hero-blue-v5.png" alt="Sadik Can Ceska hero header" width="100%" />
+  <img src="./assets/profile-hero-blue-v6.png" alt="Sadık Can Çeşka hero header" width="100%" />
 
-  <h1>Sad&#305;k Can &#199;e&#351;ka</h1>
+  <h1>Sadık Can Çeşka</h1>
   <p><strong>Fullstack Product Engineer</strong> building product-grade web systems with clean architecture and sharp interface quality.</p>
 
   <p>
