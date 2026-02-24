@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/profile-hero-red.png?v=20260220h" alt="Sadik Can Ceska hero header" width="100%" />
+  <img src="./assets/profile-hero-blue.png?v=20260224b" alt="Sadik Can Ceska hero header" width="100%" />
 
   <h1>Sad&#305;k Can &#199;e&#351;ka</h1>
   <p><strong>Fullstack Product Engineer</strong> building product-grade web systems with clean architecture and sharp interface quality.</p>
 
   <p>
-    <a href="https://ceskasc.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ceskasc.github.io-C31935?style=for-the-badge&labelColor=090C14" /></a>
-    <a href="https://github.com/ceskasc"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@ceskasc-1A1F2D?style=for-the-badge&logo=github" /></a>
-    <a href="mailto:contact@sadikcanceska.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40sadikcanceska.com-AE1E33?style=for-the-badge&labelColor=090C14" /></a>
+    <a href="https://ceskasc.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ceskasc.github.io-1D4ED8?style=for-the-badge&labelColor=070C1A" /></a>
+    <a href="https://github.com/ceskasc"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@ceskasc-1E40AF?style=for-the-badge&logo=github&labelColor=070C1A" /></a>
+    <a href="mailto:contact@sadikcanceska.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40sadikcanceska.com-2563EB?style=for-the-badge&labelColor=070C1A" /></a>
   </p>
 </div>
 
@@ -46,15 +46,15 @@
   <h3>GitHub Metrics</h3>
   <p>
     <a href="https://github.com/ceskasc">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ceskasc&show_icons=true&hide_border=true&bg_color=090C14&title_color=C31935&text_color=E6EAF2&icon_color=C31935&cache_seconds=3600" alt="GitHub stats" height="170" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ceskasc&show_icons=true&hide_border=true&bg_color=070C1A&title_color=3B82F6&text_color=E6EAF2&icon_color=60A5FA&cache_seconds=3600" alt="GitHub stats" height="170" />
     </a>
     <a href="https://github.com/ceskasc?tab=repositories">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ceskasc&layout=compact&hide_border=true&bg_color=090C14&title_color=C31935&text_color=E6EAF2&cache_seconds=3600" alt="Top languages" height="170" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ceskasc&layout=compact&hide_border=true&bg_color=070C1A&title_color=3B82F6&text_color=E6EAF2&cache_seconds=3600" alt="Top languages" height="170" />
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Crimson_Theme-Active-AE1E33?style=for-the-badge&labelColor=090C14" alt="Crimson theme badge" />
-    <img src="https://img.shields.io/badge/Stats-Refreshed_Daily-C31935?style=for-the-badge&labelColor=090C14" alt="Daily refresh badge" />
+    <img src="https://img.shields.io/badge/Blue_Theme-Active-2563EB?style=for-the-badge&labelColor=070C1A" alt="Blue theme badge" />
+    <img src="https://img.shields.io/badge/Stats-Refreshed_Daily-1D4ED8?style=for-the-badge&labelColor=070C1A" alt="Daily refresh badge" />
   </p>
 </div>
 
