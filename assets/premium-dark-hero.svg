@@ -1,0 +1,95 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sadik Can Ceska premium dark profile header</title>
+  <desc id="desc">A dark premium GitHub profile hero with name, role, tagline, and highlighted full stack capabilities.</desc>
+  <defs>
+    <linearGradient id="bg" x1="96" y1="34" x2="1108" y2="426" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030712"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <radialGradient id="glowTop" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 82) rotate(135) scale(334 254)">
+      <stop stop-color="#3B82F6" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBottom" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(248 392) rotate(19) scale(282 196)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="frame" x1="34" y1="40" x2="1168" y2="432" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E3A8A" stop-opacity="0.82"/>
+      <stop offset="0.5" stop-color="#334155" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0.54"/>
+    </linearGradient>
+    <linearGradient id="panelStroke" x1="742" y1="72" x2="1128" y2="388" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.28"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1200" height="460" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#1E293B" stroke-opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="460" rx="34" fill="#020617"/>
+  <rect width="1200" height="460" rx="34" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <ellipse cx="940" cy="82" rx="244" ry="180" fill="url(#glowTop)"/>
+    <ellipse cx="248" cy="392" rx="234" ry="150" fill="url(#glowBottom)"/>
+  </g>
+  <rect width="1200" height="460" rx="34" fill="url(#grid)" opacity="0.48"/>
+  <rect x="18" y="18" width="1164" height="424" rx="26" stroke="url(#frame)" stroke-width="1.5"/>
+
+  <path d="M1068 56H1138V126" stroke="#60A5FA" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M64 336V398H126" stroke="#60A5FA" stroke-opacity="0.18" stroke-width="2"/>
+
+  <rect x="72" y="64" width="290" height="44" rx="22" fill="#07111F" stroke="#1D4ED8" stroke-opacity="0.7"/>
+  <text x="217" y="92" fill="#93C5FD" font-size="14" font-family="Sora, 'Segoe UI', sans-serif" font-weight="600" letter-spacing="2.6" text-anchor="middle">
+    FULL STACK WEB DEVELOPER
+  </text>
+
+  <text x="72" y="176" fill="#F8FAFC" font-size="66" font-family="Sora, 'Segoe UI', sans-serif" font-weight="700">
+    Sadik Can
+  </text>
+  <text x="72" y="248" fill="#E2E8F0" font-size="66" font-family="Sora, 'Segoe UI', sans-serif" font-weight="700">
+    Ceska
+  </text>
+
+  <text x="72" y="302" fill="#93C5FD" font-size="24" font-family="Sora, 'Segoe UI', sans-serif" font-weight="500">
+    Designing premium interfaces and resilient backend systems.
+  </text>
+  <text x="72" y="340" fill="#7DD3FC" font-size="20" font-family="'Segoe UI', sans-serif" font-weight="500">
+    React / Next.js / Node.js / PostgreSQL / AWS
+  </text>
+  <text x="72" y="384" fill="#94A3B8" font-size="18" font-family="'Segoe UI', sans-serif">
+    Clean architecture. Sharp UI detail. Production-ready delivery.
+  </text>
+
+  <g>
+    <rect x="742" y="72" width="386" height="316" rx="28" fill="#050B18" fill-opacity="0.88" stroke="url(#panelStroke)"/>
+
+    <text x="780" y="116" fill="#F8FAFC" font-size="15" font-family="Sora, 'Segoe UI', sans-serif" font-weight="600" letter-spacing="3">
+      CURRENT EDGE
+    </text>
+    <text x="780" y="158" fill="#60A5FA" font-size="32" font-family="Sora, 'Segoe UI', sans-serif" font-weight="700">
+      Building for the web,
+    </text>
+    <text x="780" y="194" fill="#60A5FA" font-size="32" font-family="Sora, 'Segoe UI', sans-serif" font-weight="700">
+      end to end.
+    </text>
+
+    <line x1="780" y1="220" x2="1090" y2="220" stroke="#1E293B"/>
+
+    <text x="780" y="252" fill="#38BDF8" font-size="14" font-family="'Segoe UI', sans-serif" font-weight="600">01</text>
+    <text x="816" y="252" fill="#E2E8F0" font-size="16" font-family="'Segoe UI', sans-serif" font-weight="600">Premium UI Systems</text>
+    <text x="816" y="274" fill="#94A3B8" font-size="14" font-family="'Segoe UI', sans-serif">Refined components, motion, and product-facing polish.</text>
+
+    <text x="780" y="306" fill="#38BDF8" font-size="14" font-family="'Segoe UI', sans-serif" font-weight="600">02</text>
+    <text x="816" y="306" fill="#E2E8F0" font-size="16" font-family="'Segoe UI', sans-serif" font-weight="600">Scalable Backends</text>
+    <text x="816" y="328" fill="#94A3B8" font-size="14" font-family="'Segoe UI', sans-serif">APIs, auth, data flows, and maintainable architecture.</text>
+
+    <text x="780" y="360" fill="#38BDF8" font-size="14" font-family="'Segoe UI', sans-serif" font-weight="600">03</text>
+    <text x="816" y="360" fill="#E2E8F0" font-size="16" font-family="'Segoe UI', sans-serif" font-weight="600">Serious Delivery</text>
+    <text x="816" y="382" fill="#94A3B8" font-size="14" font-family="'Segoe UI', sans-serif">Fast iterations without losing structure or reliability.</text>
+  </g>
+</svg>
