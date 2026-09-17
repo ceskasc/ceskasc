@@ -1,0 +1,46 @@
+<svg width="980" height="300" viewBox="0 0 980 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="300" rx="24" fill="#0B0D10"/>
+  <rect x="1" y="1" width="978" height="298" rx="23" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <circle cx="30" cy="28" r="5" fill="#FF5F57"/>
+  <circle cx="48" cy="28" r="5" fill="#FEBC2E"/>
+  <circle cx="66" cy="28" r="5" fill="#28C840"/>
+  <text x="490" y="33" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">identity.ts</text>
+
+  <text x="42" y="82" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">01</text>
+  <text x="78" y="82" fill="#FF7B72" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">const</text>
+  <text x="132" y="82" fill="#D2A8FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">developer</text>
+  <text x="224" y="82" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">= {</text>
+
+  <text x="42" y="116" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">02</text>
+  <text x="96" y="116" fill="#79C0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">name</text>
+  <text x="140" y="116" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">:</text>
+  <text x="156" y="116" fill="#A5D6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">"Sadık Can Çeşka"</text>
+  <text x="326" y="116" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">,</text>
+
+  <text x="42" y="150" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">03</text>
+  <text x="96" y="150" fill="#79C0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">role</text>
+  <text x="140" y="150" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">:</text>
+  <text x="156" y="150" fill="#A5D6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">"Full-Stack Web &amp; AI Developer"</text>
+  <text x="487" y="150" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">,</text>
+
+  <text x="42" y="184" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">04</text>
+  <text x="96" y="184" fill="#79C0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">focus</text>
+  <text x="150" y="184" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">:</text>
+  <text x="166" y="184" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">[</text>
+  <text x="177" y="184" fill="#A5D6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">"web"</text>
+  <text x="227" y="184" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">,</text>
+  <text x="242" y="184" fill="#A5D6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">"ai"</text>
+  <text x="278" y="184" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">,</text>
+  <text x="293" y="184" fill="#A5D6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">"systems"</text>
+  <text x="386" y="184" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">],</text>
+
+  <text x="42" y="218" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">05</text>
+  <text x="96" y="218" fill="#79C0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">principle</text>
+  <text x="184" y="218" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">:</text>
+  <text x="200" y="218" fill="#A5D6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">"clarity over complexity"</text>
+
+  <text x="42" y="252" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">06</text>
+  <text x="78" y="252" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">};</text>
+
+  <text x="820" y="264" fill="#3FB950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">● shipping</text>
+</svg>
