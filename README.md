@@ -2,73 +2,79 @@
 
 # Sadık Can Çeşka
 
-### Software Engineer
+### Full-Stack Web & AI Developer
 
-*Designing and engineering digital products with clarity, precision and purpose.*
+Engineering production-grade web and AI systems with a global product mindset.
 
 <br>
 
-[ceskacan.com](https://ceskacan.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ceskacan) &nbsp;·&nbsp; [Email](mailto:sadktyk@gmail.com)
+[Website](https://ceskacan.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ceskacan) &nbsp;·&nbsp; [Email](mailto:sadktyk@gmail.com)
+
+<br>
+
+<img src="./assets/code-signature.svg" alt="Sadık Can Çeşka — Full-Stack Web and AI Developer" width="100%" />
 
 </div>
 
 <br>
 
----
+I design and build complete digital products — from interface architecture and frontend systems to backend services, data layers and AI-powered experiences.
+
+My approach is simple: **strong engineering, restrained design, measurable performance and as little accidental complexity as possible.**
 
 <br>
 
-I’m a software engineer focused on building **modern, thoughtful and reliable digital products**.
+## Languages & systems
 
-My work moves between product engineering, full-stack development and applied AI — from shaping an interaction to designing the system behind it. I value simple architecture, intentional interfaces and software that remains understandable as it grows.
-
-<br>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**01 / BUILD**
-
-Products that feel considered from the first interaction to the last implementation detail.
-
-</td>
-<td width="33%" valign="top">
-
-**02 / THINK**
-
-Reduce unnecessary complexity. Make the important decisions visible and deliberate.
-
-</td>
-<td width="33%" valign="top">
-
-**03 / REFINE**
-
-Measure, simplify and iterate until both the system and the experience feel inevitable.
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,html,css,react,nextjs,nodejs,dotnet,postgres,redis,docker,aws,git,githubactions&theme=dark&perline=8" alt="Technology stack" />
+</div>
 
 <br>
 
-### Working with
+`TypeScript` · `JavaScript` · `Python` · `C#` · `HTML` · `CSS` · `SQL`
 
-`TypeScript` &nbsp;&nbsp; `JavaScript` &nbsp;&nbsp; `Python` &nbsp;&nbsp; `React` &nbsp;&nbsp; `Next.js` &nbsp;&nbsp; `Node.js` &nbsp;&nbsp; `.NET` &nbsp;&nbsp; `PostgreSQL` &nbsp;&nbsp; `Docker` &nbsp;&nbsp; `AWS`
+`React` · `Next.js` · `Node.js` · `.NET` · `PostgreSQL` · `Redis`
+
+`Docker` · `AWS` · `Git` · `GitHub Actions` · `REST` · `Realtime Systems` · `AI / ML`
+
+<br>
+
+## Web
+
+```ts
+const product = await build({
+  frontend: ["React", "Next.js", "TypeScript"],
+  backend: ["Node.js", ".NET", "PostgreSQL"],
+  priorities: ["performance", "accessibility", "maintainability"],
+});
+```
+
+## AI
+
+```python
+system = AIProduct(
+    models="fit for purpose",
+    context="relevant",
+    evaluation="measurable",
+    experience="human-centered",
+)
+
+system.ship()
+```
 
 <br>
 
-### Interested in
+## Engineering focus
 
-Product engineering &nbsp;·&nbsp; AI systems &nbsp;·&nbsp; developer experience &nbsp;·&nbsp; realtime products &nbsp;·&nbsp; interaction design &nbsp;·&nbsp; performance
+**Full-stack product engineering** &nbsp;·&nbsp; **AI systems** &nbsp;·&nbsp; **developer experience** &nbsp;·&nbsp; **realtime applications** &nbsp;·&nbsp; **system design** &nbsp;·&nbsp; **performance**
 
-<br>
 <br>
 
 ---
 
 <div align="center">
 
-<sub>Build less noise. Make better software.</sub>
+<sub>Design the boundary. Keep the system clear. Ship what matters.</sub>
 
 </div>
