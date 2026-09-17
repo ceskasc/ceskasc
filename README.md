@@ -1,71 +1,74 @@
 <div align="center">
-  <img src="./assets/profile-hero-2026.svg" alt="Sadık Can Çeşka — Software Engineer" width="100%" />
+
+# Sadık Can Çeşka
+
+### Software Engineer
+
+*Designing and engineering digital products with clarity, precision and purpose.*
+
+<br>
+
+[ceskacan.com](https://ceskacan.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ceskacan) &nbsp;·&nbsp; [Email](mailto:sadktyk@gmail.com)
+
 </div>
 
-<br/>
+<br>
 
-<div align="center">
-  <a href="https://ceskacan.com/"><b>Portfolio</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/ceskasc?tab=repositories"><b>Work</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ceskacan"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:sadktyk@gmail.com"><b>Contact</b></a>
-</div>
+---
 
-<br/>
+<br>
 
-> I build software with a bias toward clarity: thoughtful interfaces, durable systems, measurable performance and the smallest amount of complexity that can do the job well.
+I’m a software engineer focused on building **modern, thoughtful and reliable digital products**.
 
-<br/>
+My work moves between product engineering, full-stack development and applied AI — from shaping an interaction to designing the system behind it. I value simple architecture, intentional interfaces and software that remains understandable as it grows.
 
-### Profile
+<br>
 
-Software engineer working across **product engineering, full-stack systems and applied AI**. I care about the entire path from an idea to a reliable product — architecture, interaction, implementation, testing, performance and delivery.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-My work sits at the intersection of **engineering precision** and **product taste**: systems should be technically sound, but they should also feel intentional to the people using them.
+**01 / BUILD**
 
-<br/>
+Products that feel considered from the first interaction to the last implementation detail.
 
-### Selected work
+</td>
+<td width="33%" valign="top">
 
-**01 — [AppAnvil](https://github.com/ceskasc/appanvil)**  
-Developer tooling for building, validating and sharing reproducible Windows application setups. · [Live ↗](https://ceskasc.github.io/appanvil/)
+**02 / THINK**
 
-**02 — [NoirWave](https://github.com/ceskasc/NoirWave)**  
-A modern music experience built around real playback, focused state management and an immersive full-screen player. · [Live ↗](https://ceskasc.github.io/NoirWave/)
+Reduce unnecessary complexity. Make the important decisions visible and deliberate.
 
-**03 — [Lunara](https://github.com/ceskasc/tetris)**  
-A full-stack game platform with persistent data, authentication, progression and real-time 1v1 sessions.
+</td>
+<td width="33%" valign="top">
 
-**04 — [Architect Portfolio](https://github.com/ceskasc/architect-portfolio)**  
-A deliberately lightweight responsive portfolio focused on semantic frontend architecture and visual restraint. · [Live ↗](https://ceskasc.github.io/architect-portfolio/)
+**03 / REFINE**
 
-**05 — [QR Generator](https://github.com/ceskasc/qr-generator)**  
-Client-side QR composition with logo support and high-resolution export. · [Live ↗](https://ceskasc.github.io/qr-generator/)
+Measure, simplify and iterate until both the system and the experience feel inevitable.
 
-<br/>
+</td>
+</tr>
+</table>
 
-### Core stack
+<br>
 
-`TypeScript` &nbsp; `JavaScript` &nbsp; `Python` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Node.js` &nbsp; `.NET` &nbsp; `PostgreSQL` &nbsp; `Redis` &nbsp; `Docker` &nbsp; `AWS` &nbsp; `GitHub Actions`
+### Working with
 
-<sub>AI / ML · realtime systems · APIs · relational data · testing · CI/CD · performance · accessibility</sub>
+`TypeScript` &nbsp;&nbsp; `JavaScript` &nbsp;&nbsp; `Python` &nbsp;&nbsp; `React` &nbsp;&nbsp; `Next.js` &nbsp;&nbsp; `Node.js` &nbsp;&nbsp; `.NET` &nbsp;&nbsp; `PostgreSQL` &nbsp;&nbsp; `Docker` &nbsp;&nbsp; `AWS`
 
-<br/>
-<br/>
+<br>
 
-### Engineering approach
+### Interested in
 
-**Reduce noise. Design the boundary. Make state explicit. Test the risky path. Measure before optimizing. Ship, observe, refine.**
+Product engineering &nbsp;·&nbsp; AI systems &nbsp;·&nbsp; developer experience &nbsp;·&nbsp; realtime products &nbsp;·&nbsp; interaction design &nbsp;·&nbsp; performance
 
-<br/>
+<br>
+<br>
 
 ---
 
 <div align="center">
-  <sub>Sadık Can Çeşka · Software Engineer · İzmir, Türkiye</sub>
-  <br/>
-  <sub><a href="https://ceskacan.com/">ceskacan.com</a></sub>
+
+<sub>Build less noise. Make better software.</sub>
+
 </div>
