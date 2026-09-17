@@ -1,51 +1,71 @@
 <div align="center">
-  <img src="./assets/minimal-dark-hero-tr.svg" alt="Sadık Can Çeşka GitHub profil başlığı" width="100%" />
+  <img src="./assets/profile-hero-2026.svg" alt="Sadık Can Çeşka — Software Engineer" width="100%" />
 </div>
 
-<h1 align="center">Sadık Can Çeşka</h1>
+<br/>
 
-<p align="center">
-  <strong>Software Engineer · AI / ML · Full Stack · Systems</strong>
-</p>
+<div align="center">
+  <a href="https://ceskacan.com/"><b>Portfolio</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ceskasc?tab=repositories"><b>Work</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ceskacan"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:sadktyk@gmail.com"><b>Contact</b></a>
+</div>
 
-<p align="center">
-  Karmaşık problemleri sade, test edilebilir ve sürdürülebilir sistemlere dönüştürüyorum.<br/>
-  Yapay zekâ, gerçek zamanlı ürünler ve modern web uygulamalarında uçtan uca geliştirme yapıyorum.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://ceskacan.com/">Portfolio</a>
-  ·
-  <a href="https://ceskacan.com/en.html">English</a>
-  ·
-  <a href="https://www.linkedin.com/in/ceskacan">LinkedIn</a>
-  ·
-  <a href="mailto:sadktyk@gmail.com">Email</a>
-</p>
+> I build software with a bias toward clarity: thoughtful interfaces, durable systems, measurable performance and the smallest amount of complexity that can do the job well.
+
+<br/>
+
+### Profile
+
+Software engineer working across **product engineering, full-stack systems and applied AI**. I care about the entire path from an idea to a reliable product — architecture, interaction, implementation, testing, performance and delivery.
+
+My work sits at the intersection of **engineering precision** and **product taste**: systems should be technically sound, but they should also feel intentional to the people using them.
+
+<br/>
+
+### Selected work
+
+**01 — [AppAnvil](https://github.com/ceskasc/appanvil)**  
+Developer tooling for building, validating and sharing reproducible Windows application setups. · [Live ↗](https://ceskasc.github.io/appanvil/)
+
+**02 — [NoirWave](https://github.com/ceskasc/NoirWave)**  
+A modern music experience built around real playback, focused state management and an immersive full-screen player. · [Live ↗](https://ceskasc.github.io/NoirWave/)
+
+**03 — [Lunara](https://github.com/ceskasc/tetris)**  
+A full-stack game platform with persistent data, authentication, progression and real-time 1v1 sessions.
+
+**04 — [Architect Portfolio](https://github.com/ceskasc/architect-portfolio)**  
+A deliberately lightweight responsive portfolio focused on semantic frontend architecture and visual restraint. · [Live ↗](https://ceskasc.github.io/architect-portfolio/)
+
+**05 — [QR Generator](https://github.com/ceskasc/qr-generator)**  
+Client-side QR composition with logo support and high-resolution export. · [Live ↗](https://ceskasc.github.io/qr-generator/)
+
+<br/>
+
+### Core stack
+
+`TypeScript` &nbsp; `JavaScript` &nbsp; `Python` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Node.js` &nbsp; `.NET` &nbsp; `PostgreSQL` &nbsp; `Redis` &nbsp; `Docker` &nbsp; `AWS` &nbsp; `GitHub Actions`
+
+<sub>AI / ML · realtime systems · APIs · relational data · testing · CI/CD · performance · accessibility</sub>
+
+<br/>
+<br/>
+
+### Engineering approach
+
+**Reduce noise. Design the boundary. Make state explicit. Test the risky path. Measure before optimizing. Ship, observe, refine.**
+
+<br/>
 
 ---
 
-## Selected work
-
-| Project | Engineering focus | Links |
-| --- | --- | --- |
-| **AppAnvil** | TypeScript developer tooling, validated install profiles, Winget/Chocolatey/Scoop mappings, shareable compressed state | [Live](https://ceskasc.github.io/appanvil/) · [Source](https://github.com/ceskasc/appanvil) |
-| **NoirWave** | Next.js music product, real HTML5 audio, Zustand state, animated full-screen player | [Live](https://ceskasc.github.io/NoirWave/) · [Source](https://github.com/ceskasc/NoirWave) |
-| **Lunara** | Full-stack game platform, PostgreSQL/Prisma persistence, Socket.IO realtime 1v1, progression and auth | [Source](https://github.com/ceskasc/tetris) |
-| **Architect Portfolio** | Semantic, framework-free responsive frontend with a small runtime footprint | [Live](https://ceskasc.github.io/architect-portfolio/) · [Source](https://github.com/ceskasc/architect-portfolio) |
-| **QR Generator** | Fully client-side QR generation, logo composition and high-resolution export | [Live](https://ceskasc.github.io/qr-generator/) · [Source](https://github.com/ceskasc/qr-generator) |
-
-## Engineering stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,dotnet,postgres,redis,docker,aws,git,githubactions&theme=dark&perline=7" alt="Engineering stack" />
+  <sub>Sadık Can Çeşka · Software Engineer · İzmir, Türkiye</sub>
+  <br/>
+  <sub><a href="https://ceskacan.com/">ceskacan.com</a></sub>
 </div>
-
-- **AI / ML:** machine learning, NLP, TensorFlow
-- **Frontend:** TypeScript, React, Next.js, semantic HTML/CSS
-- **Backend / systems:** Node.js, .NET, PostgreSQL, realtime systems
-- **Engineering:** testing, CI/CD, maintainability, performance, accessibility
-
-<p align="center">
-  <sub>Build → test → ship.</sub>
-</p>
