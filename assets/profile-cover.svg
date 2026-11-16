@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Sadık Can Çeşka — Yazılım Mühendisi</title>
+  <desc id="desc">Krem, lacivert ve kobalt mavisinden oluşan sade portföy kapağı. Karmaşık sistemler, düşünülmüş ürünler.</desc>
+  <rect width="1200" height="430" rx="16" fill="#F7F6F2"/>
+  <rect x="1" y="1" width="1198" height="428" rx="15" fill="none" stroke="#D7DBE4" stroke-width="2"/>
+  <path d="M0 78H1200M0 389H1200" stroke="#D7DBE4"/>
+  <rect x="51" y="30" width="29" height="29" rx="7" fill="#2944CD"/>
+  <path d="M61 40l-6 5 6 5M70 40l-6 5 6 5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="93" y="52" fill="#171D2B" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-1" font-size="25">ceskacan<tspan fill="#2944CD">.</tspan></text>
+  <text x="1149" y="50" text-anchor="end" fill="#555E70" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2.3" font-size="12">GITHUB / PROFILE</text>
+  <text x="63" y="132" fill="#2944CD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.6">SOFTWARE ENGINEER  /  FULL STACK + AI</text>
+  <text x="59" y="216" fill="#171D2B" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-4">SADIK CAN</text>
+  <text x="59" y="302" fill="#2944CD" font-family="Arial, Helvetica, sans-serif" font-size="91" font-weight="700" letter-spacing="-4.5">ÇEŞKA<tspan fill="#171D2B">.</tspan></text>
+  <path d="M63 326h75" stroke="#2944CD" stroke-width="5" stroke-linecap="round"/>
+  <text x="63" y="360" fill="#555E70" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="-.3">Karmaşık sistemler. Düşünülmüş ürünler.</text>
+  <rect x="795" y="106" width="349" height="253" rx="14" fill="#141C31"/>
+  <text x="827" y="147" fill="#BDCaff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">WORK / PRINCIPLES</text>
+  <circle cx="1106" cy="140" r="6" fill="#BDCAFF"/>
+  <path d="M826 169h286" stroke="#43506E"/>
+  <text x="827" y="204" fill="#A3B5FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">01</text>
+  <text x="871" y="204" fill="#F0F3FF" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Design with clarity</text>
+  <path d="M826 224h286" stroke="#43506E"/>
+  <text x="827" y="259" fill="#A3B5FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">02</text>
+  <text x="871" y="259" fill="#F0F3FF" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Engineer for scale</text>
+  <path d="M826 279h286" stroke="#43506E"/>
+  <text x="827" y="314" fill="#A3B5FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">03</text>
+  <text x="871" y="314" fill="#F0F3FF" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Ship with purpose</text>
+  <text x="62" y="414" fill="#555E70" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">ÇEŞME  /  TÜRKİYE</text>
+  <text x="1147" y="414" text-anchor="end" fill="#555E70" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">PRODUCT  ·  CODE  ·  SYSTEMS</text>
+</svg>
